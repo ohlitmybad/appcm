@@ -1,0 +1,17 @@
+{
+  "search": {
+    "placeholder2": "Chercher un milieu de terrain..."
+  },
+  "radar": {
+    "a": "Passes Clés",
+    "b": "Passes Av%",
+    "c": "Passes Av",
+    "d": "Courses",
+    "e": "Actions Déf",
+    "f": "% Duels",
+    "g": "Passes Prog"
+  },
+  "similar": {
+    "to": "Données similaires à"
+  }
+} 
