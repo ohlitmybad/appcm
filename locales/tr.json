@@ -1,0 +1,30 @@
+{
+  "search": {
+    "placeholder2": "Orta saha oyuncusu adı girin..."
+  },
+  "radar": {
+    "keyPasses": "Anahtar paslar",
+    "fwdPass": "İleri pas%",
+    "fwdPasses": "İleri paslar",
+    "carrying": "Taşıma",
+    "possWon": "Top kazanma",
+    "duels": "Düello%",
+    "progPasses": "Hücum pası"
+  },
+  "similar": {
+    "to": "Benzer veri"
+  },
+  "header": {
+    "percentiles": "Yüzdelikler",
+    "clickforinfo": "Tam metrik adını görmek için başlığa tıklayın",
+    "percentilesvstop7leagues": "En İyi 7 Lig vs Yüzdelikler",
+    "duelswon": "Düellolar kazanıldı %",
+    "possessionswon": "Top hakimiyeti kazanıldı",
+    "progressivecarries": "Hücum taşımaları",
+    "forwardpassescompleted": "İleri paslar tamamlandı",
+    "forwardpasscompletion": "İleri pas doğruluğu %",
+    "keypasses": "Anahtar paslar",
+    "progressivepassescompleted": "Hücum pasları tamamlandı",
+    "minutesplayed": "Oynanan dakikalar"
+  }
+} 
