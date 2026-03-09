@@ -1,0 +1,30 @@
+{
+  "search": {
+    "placeholder2": "Inserisci nome del centrocampista..."
+  },
+  "radar": {
+    "keyPasses": "Pass. chiave",
+    "fwdPass": "Pass. av.%",
+    "fwdPasses": "Pass. in avanti",
+    "carrying": "Conduzioni",
+    "possWon": "Palloni recup.",
+    "duels": "Duelli%",
+    "progPasses": "Pass. prog."
+  },
+  "similar": {
+    "to": "Dati simili a"
+  },
+  "header": {
+    "percentiles": "Percentili",
+    "clickforinfo": "Clicca su un'intestazione per il nome completo della metrica",
+    "percentilesvstop7leagues": "Percentili vs Top 7 Leghe",
+    "duelswon": "Duelli vinti %",
+    "possessionswon": "Palloni recuperati",
+    "progressivecarries": "Conduzioni progressive",
+    "forwardpassescompleted": "Passaggi in avanti completati",
+    "forwardpasscompletion": "Precisione passaggi in avanti %",
+    "keypasses": "Passaggi chiave",
+    "progressivepassescompleted": "Passaggi progressivi completati",
+    "minutesplayed": "Minuti giocati"
+  }
+}

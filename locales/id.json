@@ -1,0 +1,30 @@
+{
+  "search": {
+    "placeholder2": "Masukkan nama gelandang..."
+  },
+  "radar": {
+    "keyPasses": "Umpan kunci",
+    "fwdPass": "Umpan dpn%",
+    "fwdPasses": "Umpan dpn",
+    "carrying": "Bawa bola",
+    "possWon": "Perebutan",
+    "duels": "Duel%",
+    "progPasses": "Umpan prog."
+  },
+  "similar": {
+    "to": "Data serupa dengan"
+  },
+  "header": {
+    "percentiles": "Persentil",
+    "clickforinfo": "Klik header untuk nama metrik lengkap",
+    "percentilesvstop7leagues": "Persentil vs 7 Liga Teratas",
+    "duelswon": "Duel menang %",
+    "possessionswon": "Bola direbut",
+    "progressivecarries": "Bawa bola progresif",
+    "forwardpassescompleted": "Umpan ke depan berhasil",
+    "forwardpasscompletion": "Akurasi umpan ke depan %",
+    "keypasses": "Umpan kunci",
+    "progressivepassescompleted": "Umpan progresif berhasil",
+    "minutesplayed": "Menit bermain"
+  }
+}
