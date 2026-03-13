@@ -1,0 +1,30 @@
+{
+  "search": {
+    "placeholder2": "Name des Mittelfeldspielers eingeben..."
+  },
+  "radar": {
+    "keyPasses": "Schlüsselpässe",
+    "fwdPass": "Vorw. Pass%",
+    "fwdPasses": "Vorw. Pässe",
+    "carrying": "Ballführung",
+    "possWon": "Ballgew.",
+    "duels": "Zweikämpfe%",
+    "progPasses": "Prog. Pässe"
+  },
+  "similar": {
+    "to": "Ähnliche Daten wie"
+  },
+  "header": {
+    "percentiles": "Perzentile",
+    "clickforinfo": "Klicken Sie auf eine Überschrift für den vollständigen Metriknamen",
+    "percentilesvstop7leagues": "Perzentile vs Top-7-Ligen",
+    "duelswon": "Zweikämpfe gewonnen %",
+    "possessionswon": "Ballgew.",
+    "progressivecarries": "Progressive Läufe",
+    "forwardpassescompleted": "Vorwärtspässe",
+    "forwardpasscompletion": "Vorwärtspass-Genauigkeit %",
+    "keypasses": "Schlüsselpässe",
+    "progressivepassescompleted": "Progressive Pässe",
+    "minutesplayed": "Minuten gespielt"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "search": {
+    "placeholder2": "Chercher un milieu de terrain..."
+  },
+  "radar": {
+    "keyPasses": "Passes clés",
+    "fwdPass": "Passes av%",
+    "fwdPasses": "Passes av",
+    "carrying": "Courses",
+    "possWon": "Poss gagnées",
+    "duels": "% Duels",
+    "progPasses": "Passes prog"
+  },
+  "similar": {
+    "to": "Données similaires à"
+  },
+  "header": {
+    "percentiles": "Centiles",
+    "clickforinfo": "Cliquez sur un en-tête pour voir le nom complet de la métrique",
+    "percentilesvstop7leagues": "Centiles parmi 7 grands championnats",
+    "duelswon": "Duels gagnés %",
+    "possessionswon": "Possessions gagnées",
+    "progressivecarries": "Courses progressives",
+    "forwardpassescompleted": "Passes vers l'avant réussies",
+    "forwardpasscompletion": "Précision des passes vers l'avant %",
+    "keypasses": "Passes clés",
+    "progressivepassescompleted": "Passes progressives réussies",
+    "minutesplayed": "Minutes jouées"
+  }
+} 
